@@ -1,0 +1,28 @@
+body div{
+  display: inline-block;
+  padding: 20px;
+}
+.red{
+  background-color: #f00;
+}
+.green{
+  background-color: #0f0;
+}
+.blue{
+  background-color: #00f;
+}
+.small{
+  height: 100px;
+  vertical-align: top;
+  width: 100px;
+}
+.normal{
+  height: 300px;
+  vertical-align: top;
+  width: 300px;
+}
+.large{
+  height: 500px;
+  vertical-align: top;
+  width: 500px;
+}
